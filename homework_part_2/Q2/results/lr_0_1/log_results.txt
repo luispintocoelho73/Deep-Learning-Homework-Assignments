@@ -1,0 +1,50 @@
+ **** Model Parameters **** 
+Dropout: 0.4
+Learning Rate: 0.1
+
+Training epoch 1
+Training loss: 0.5476
+Valid acc: 0.8530
+Training epoch 2
+Training loss: 0.4513
+Valid acc: 0.8826
+Training epoch 3
+Training loss: 0.4063
+Valid acc: 0.8800
+Training epoch 4
+Training loss: 0.3773
+Valid acc: 0.8940
+Training epoch 5
+Training loss: 0.3577
+Valid acc: 0.8800
+Training epoch 6
+Training loss: 0.3426
+Valid acc: 0.8939
+Training epoch 7
+Training loss: 0.3306
+Valid acc: 0.8893
+Training epoch 8
+Training loss: 0.3203
+Valid acc: 0.8851
+Training epoch 9
+Training loss: 0.3113
+Valid acc: 0.8870
+Training epoch 10
+Training loss: 0.3036
+Valid acc: 0.8963
+Training epoch 11
+Training loss: 0.2970
+Valid acc: 0.8962
+Training epoch 12
+Training loss: 0.2913
+Valid acc: 0.8986
+Training epoch 13
+Training loss: 0.2860
+Valid acc: 0.8924
+Training epoch 14
+Training loss: 0.2811
+Valid acc: 0.8969
+Training epoch 15
+Training loss: 0.2771
+Valid acc: 0.8915
+Final Test acc: 0.8923
